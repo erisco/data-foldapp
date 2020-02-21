@@ -25,6 +25,8 @@ module Data.FoldApp.Function
   , Set
   , allOf
   , allOfBy
+  , anyOf
+  , anyOfBy
   , asumOf
   , dualAsumOf
   , dualFoldOf
